@@ -1,6 +1,10 @@
 # Creative Coding
 
-Drawings using Javascript 
+Drawings using Javascript. Implemented using canvas-sketch library. In order to test it you should run the following:
+
+``` 
+canvas-sketch nameOfFile.js
+```
 
 
 
