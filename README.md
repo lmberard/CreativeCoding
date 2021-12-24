@@ -1,7 +1,10 @@
 # Creative Coding
 
-Drawings using Javascript. Implemented using canvas-sketch library. In order to test it you should run the following:
-
+Drawings using Javascript. Implemented using canvas-sketch library. In order to test it you should install the library:
+``` 
+npm install canvas-sketch-cli -g
+``` 
+and then run:
 ``` 
 canvas-sketch nameOfFile.js
 ```
